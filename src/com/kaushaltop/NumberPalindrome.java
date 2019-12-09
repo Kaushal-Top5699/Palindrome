@@ -7,9 +7,9 @@ public class NumberPalindrome {
         //Logic for reversing the number
         int reversed = 0;
 
-        //Since at end of loop num will be equal to 0,
-        // therefore, initially store num in a variable
-        // in this case int number = num;
+        //Since at end of loop number will be equal to 0,
+        // therefore, initially store number in a variable
+        // in this case int number2 = number;
         int number2 = number;
 
         while (number != 0) {
